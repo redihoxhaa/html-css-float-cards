@@ -5,3 +5,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* COMMON */
+
+.container {
+    max width: 1000px;
+    margin: 0 auto;
+}
+
+/* TYPOGRAPHY */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Fredoka', sans-serif;
+    color: #e5316f
+}
+
+/* HEADER */
+
+.title {
+    font-size: 22px;
+    text-align: center;
+    padding: 45px
+}
